@@ -1,0 +1,8 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+
+window:
+  padding:
+    x: 20
+    y: 20
+
